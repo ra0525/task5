@@ -41,7 +41,7 @@ The goal is to practice **data exploration** using **Pandas, Matplotlib, and Sea
 ## 📊 Visualizations Used
 
 ### 1️⃣ Histograms
-[Age Distribution](<img width="571" height="453" alt="hist1" src="https://github.com/user-attachments/assets/7f0ff057-9803-4906-9ec8-d70b8d7af6a8" />)<br/>
+![Age Distribution](<img width="571" height="453" alt="hist1" src="https://github.com/user-attachments/assets/7f0ff057-9803-4906-9ec8-d70b8d7af6a8" />)<br/>
 ![Age Distribution](images/hist_age.png)  
 ![Fare Distribution](images/hist_fare.png)  
 
