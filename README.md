@@ -1,4 +1,4 @@
-<img width="850" height="545" alt="scatter1" src="https://github.com/user-attachments/assets/15c42728-3743-4a72-a639-a099777a5397" /><img width="850" height="545" alt="scatter1" src="https://github.com/user-attachments/assets/ce516dc4-5fb0-4861-81bd-d87920192f09" /># Titanic Dataset — Exploratory Data Analysis (EDA)
+# Titanic Dataset — Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis** on the Titanic dataset to identify **patterns, trends, and relationships** between passenger features and survival outcomes.  
